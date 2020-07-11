@@ -1,5 +1,5 @@
 # Add configuration values here, as shown below.
-AWS_KEY: "AKIAIURRWBEJSVE5ASQA"
+AWS_KEY: "AKIAJ2BL5RGOPA6EPOFQ"
 AWS_SECRET_KEY: "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"
 AWS_BUCKET: "sr-gramm"
 AWS_REGION: "us-east-1"
